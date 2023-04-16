@@ -1,0 +1,6 @@
+João, Maria
+Maria, Joao
+Lorena, Jose
+Jose, Lorena
+Joao, Caio
+Caio, Joao
